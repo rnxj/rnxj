@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nixon</h1>
 <h3 align="center">A passionate Machine learning enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Machine learning**
+- I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- Ask me about **Python**
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **reuelnixon@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -16,18 +13,16 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/reuelnixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="reuelnixon" height="40" width="100" /></a>
-<a href="https://twitter.com/reuel_nixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reuel_nixon" height="40" width="100" /></a>
+<p align="left">
 <a href="https://linkedin.com/in/reuelnixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reuelnixon" height="40" width="100" /></a>
+<a href="https://twitter.com/reuel_nixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reuel_nixon" height="40" width="100" /></a>
 <a href="https://instagram.com/reuel_nixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reuel_nixon" height="40" width="100" /></a>
-<a href="https://www.hackerrank.com/reuelnixon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reuelnixon" height="40" width="100" /></a>
 </p>
+
+ - **reuelnixon@gmail.com**<br>
+ - +91 7200733799
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reuelnixon&label=Profile%20views&color=0e75b6&style=flat" alt="reuelnixon" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reuelnixon&show_icons=true&locale=en&layout=compact" alt="reuelnixon" width = "490"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reuelnixon&show_icons=true&locale=en" alt="reuelnixon" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reuelnixon&" alt="reuelnixon" /></p>
