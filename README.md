@@ -54,8 +54,26 @@ A collection of experiments, tools, and half-serious ideas that escaped the note
 
 ### tech i reach for
 
+```txt
 frontend    React, Vite, Next.js, SvelteKit, Tailwind, shadcn/ui
 backend     Go, Node.js, Hono, GraphQL, gRPC
 data        PostgreSQL, MySQL, MongoDB
 infra       AWS, Cloudflare, Docker, GitHub Actions
 ai workflow Claude Code, Codex, spec-driven development
+```
+
+⸻
+
+currently
+
+- building production SaaS systems
+- getting sharper at backend architecture
+- experimenting with AI-assisted development workflows
+- trying to ship more public projects instead of letting ideas rot locally
+
+⸻
+
+<p align="center">
+  <i>build fast. understand deeply. keep shipping.</i>
+</p>
+
