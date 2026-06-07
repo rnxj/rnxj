@@ -62,7 +62,7 @@ infra       AWS, Cloudflare, Docker, GitHub Actions
 ai workflow Claude Code, Codex, spec-driven development
 ```
 
-⸻
+---
 
 currently
 
@@ -71,7 +71,7 @@ currently
 - experimenting with AI-assisted development workflows
 - trying to ship more public projects instead of letting ideas rot locally
 
-⸻
+---
 
 <p align="center">
   <i>build fast. understand deeply. keep shipping.</i>
