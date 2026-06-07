@@ -1,15 +1,61 @@
-## Greetings fellow carbon based life forms, I'm Nixon 🧑🏽‍💻
-I'm currently on a quest to learn the secrets of the digital universe. By day, I'm an intern at <a href="https://balkan.id">BalkanID</a>, and by night, I immerse myself in contributing to open source projects and creating personal projects that may or may not involve turning everyday objects into sentient beings. Also, I have an unexplainable fascination with rubber ducks. 🚀🤖🐤
+<h1 align="center">hey, i'm reuel 👋</h1>
 
-<a href="https://twitter.com/_rnxj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/reuelnixon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/_rnxj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p align="center">
+  full-stack engineer • ai-native builder • shipping useful things fast
+</p>
 
-### About Me!
-- 🎓 College student pursuing a B.Tech in Computer Science (or trying to, at least).
-- 💻 Web development enthusiast, fluent in Svelte, Next.js, TypeScript, and the art of Googling error messages
-- 🐍 Python aficionado, turning data into memes with PyTorch
-- 👾 Attempting to tame Goroutines and Channels, because who needs sleep anyway? 💤
-  
-### Goals
-- 🌟 Contribute to open source projects without breaking them
-- 🚀 Launch my startup after learning how to spell 'entrepreneur' correctly
-- 🌍 Make the internet a better place, one line of code at a time
+<p align="center">
+  <a href="https://rnxj.dev">portfolio</a> ·
+  <a href="https://linkedin.com/in/reuelnixon">linkedin</a> ·
+  <a href="mailto:reuelnixon@gmail.com">email</a>
+</p>
+
+---
+
+I like building things that feel simple on the outside and are properly engineered underneath.
+
+Most of my work sits somewhere between **product engineering**, **backend systems**, and **fast prototyping** usually with TypeScript, React/Next.js, Go, PostgreSQL, AWS, Cloudflare, and whatever else gets the job done.
+
+AI is a big part of how I work, but not as a replacement for engineering. I use it like a multiplier: to explore ideas faster, debug harder problems, refactor with more confidence, and compress the path from “what if?” to “it works.”
+
+---
+
+### what i’m good at
+
+- shipping full-stack features end-to-end
+- turning vague product ideas into working software
+- building clean frontend flows with React / Next.js
+- designing backend APIs and data models
+- moving fast without completely setting the codebase on fire
+- using AI tools to iterate faster, not think less
+
+---
+
+### recent builds
+
+#### Duck Hunt: Unplugged
+A browser-based Duck Hunt remake controlled with your hand.
+
+No controller. No keyboard aim. Just webcam tracking, gesture detection, PixiJS rendering, and a pinch to shoot.
+
+`TypeScript` · `MediaPipe` · `PixiJS` · `Vite`
+
+#### PhonePe PG for Next.js
+A clean PhonePe payment gateway integration for Next.js apps.
+
+Covers payment initiation, status checks, webhook callbacks, result pages, environment config, and production notes.
+
+`Next.js` · `TypeScript` · `PhonePe SDK` · `Tailwind`
+
+#### Project Stash
+A collection of experiments, tools, and half-serious ideas that escaped the notes app.
+
+---
+
+### tech i reach for
+
+frontend    React, Vite, Next.js, SvelteKit, Tailwind, shadcn/ui
+backend     Go, Node.js, Hono, GraphQL, gRPC
+data        PostgreSQL, MySQL, MongoDB
+infra       AWS, Cloudflare, Docker, GitHub Actions
+ai workflow Claude Code, Codex, spec-driven development
