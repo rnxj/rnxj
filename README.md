@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Reuel 👋</h1>
 
 <p align="center">
-  I build full-stack products, move fast, and use AI as a serious engineering multiplier.
+  <b>Full-stack engineer</b> · <b>AI-native builder</b> · <b>Fast product shipper</b>
 </p>
 
 <p align="center">
