@@ -1,79 +1,88 @@
-<h1 align="center">hey, i'm reuel 👋</h1>
+<h1 align="center">Hi, I'm Reuel 👋</h1>
 
 <p align="center">
-  full-stack engineer • ai-native builder • shipping useful things fast
+  I build full-stack products, move fast, and use AI as a serious engineering multiplier.
 </p>
 
 <p align="center">
-  <a href="https://rnxj.dev">portfolio</a> ·
-  <a href="https://linkedin.com/in/reuelnixon">linkedin</a> ·
-  <a href="mailto:reuelnixon@gmail.com">email</a>
+  <a href="https://rnxj.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/reuelnixon">LinkedIn</a> ·
+  <a href="mailto:reuelnixon@gmail.com">Email</a>
 </p>
 
 ---
 
-I like building things that feel simple on the outside and are properly engineered underneath.
+### About
 
-Most of my work sits somewhere between **product engineering**, **backend systems**, and **fast prototyping** usually with TypeScript, React/Next.js, Go, PostgreSQL, AWS, Cloudflare, and whatever else gets the job done.
+I'm a full-stack engineer who likes building things end to end.
 
-AI is a big part of how I work, but not as a replacement for engineering. I use it like a multiplier: to explore ideas faster, debug harder problems, refactor with more confidence, and compress the path from “what if?” to “it works.”
+I care about clean interfaces, solid backends, fast iteration, and actually shipping. Most of my work is around SaaS products, internal tools, backend systems, automation, and experiments that start as “wait, can this work?”
 
----
-
-### what i’m good at
-
-- shipping full-stack features end-to-end
-- turning vague product ideas into working software
-- building clean frontend flows with React / Next.js
-- designing backend APIs and data models
-- moving fast without completely setting the codebase on fire
-- using AI tools to iterate faster, not think less
+AI is a big part of how I work, but not because I want it to do the thinking for me. I use it to move faster, test more ideas, debug deeper, refactor cleaner, and stay in flow longer.
 
 ---
 
-### recent builds
+### Stuff I Work With
 
-#### Duck Hunt: Unplugged
-A browser-based Duck Hunt remake controlled with your hand.
-
-No controller. No keyboard aim. Just webcam tracking, gesture detection, PixiJS rendering, and a pinch to shoot.
-
-`TypeScript` · `MediaPipe` · `PixiJS` · `Vite`
-
-#### PhonePe PG for Next.js
-A clean PhonePe payment gateway integration for Next.js apps.
-
-Covers payment initiation, status checks, webhook callbacks, result pages, environment config, and production notes.
-
-`Next.js` · `TypeScript` · `PhonePe SDK` · `Tailwind`
-
-#### Project Stash
-A collection of experiments, tools, and half-serious ideas that escaped the notes app.
-
----
-
-### tech i reach for
-
-```txt
-frontend    React, Vite, Next.js, SvelteKit, Tailwind, shadcn/ui
-backend     Go, Node.js, Hono, GraphQL, gRPC
-data        PostgreSQL, MySQL, MongoDB
-infra       AWS, Cloudflare, Docker, GitHub Actions
-ai workflow Claude Code, Codex, spec-driven development
-```
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, Next.js, SvelteKit, Tailwind CSS, shadcn/ui</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Go, Node.js, Express, Hono, GraphQL, gRPC</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>PostgreSQL, MySQL, MongoDB, Neo4j</td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>AWS, Cloudflare, Docker, GitHub Actions, ArgoCD</td>
+  </tr>
+  <tr>
+    <td><b>AI Workflow</b></td>
+    <td>Claude Code, Codex, Cursor, Spec-Driven Development</td>
+  </tr>
+</table>
 
 ---
 
-currently
+### Recent Builds
 
-- building production SaaS systems
-- getting sharper at backend architecture
-- experimenting with AI-assisted development workflows
-- trying to ship more public projects instead of letting ideas rot locally
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Duck Hunt: Unplugged</h3>
+      <p>A browser Duck Hunt remake controlled with your hand. Webcam tracking, gesture detection, aiming, shooting, scoring, rounds, and all the fun parts.</p>
+      <p><b>Stack:</b> TypeScript, MediaPipe, PixiJS, Vite</p>
+      <p>
+        <a href="https://github.com/rnxj/duckhunt-unplugged">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>PhonePe PG for Next.js</h3>
+      <p>A clean PhonePe payment gateway setup for Next.js apps with payment initiation, status checks, webhook handling, and result pages.</p>
+      <p><b>Stack:</b> Next.js, TypeScript, PhonePe SDK, Tailwind CSS</p>
+      <p>
+        <a href="https://github.com/rnxj/phonepe-pg-nextjs">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Right Now
+
+- Building production SaaS systems
+- Getting better at backend and infra architecture
+- Using AI tools to compress the path from idea to working software
+- Trying to ship more of the weird ideas sitting in my notes
 
 ---
 
 <p align="center">
-  <i>build fast. understand deeply. keep shipping.</i>
+  <b>Build fast. Understand deeply. Keep shipping.</b>
 </p>
-
